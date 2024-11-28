@@ -4,9 +4,9 @@ Recipes App, kullanıcıların çeşitli yemek tariflerini keşfetmelerini ve de
 
 ## Kullanılan Teknolojiler:
 
-Flutter: Uygulamanın geliştirilmesinde kullanılan açık kaynaklı UI yazılım geliştirme kitidir.
-Dart: Flutter uygulamalarını yazmak için kullanılan programlama dilidir.
-BLoC: Uygulamadaki durum yönetimi için kullanılan bir kütüphanedir (Business Logic Component).
-Dio: HTTP istekleri göndermek için kullanılan güçlü bir kütüphanedir.
-JSON: Verilerin formatlanması ve taşınması için kullanılır.
-CachedNetworkImage: Kullanıcıların tariflerin resimlerini çevrimdışı izlemeleri için resim önbellekleme kütüphanesidir.
+- **Flutter**: Uygulamanın geliştirilmesinde kullanılan açık kaynaklı UI yazılım geliştirme kitidir.
+- **Dart**: Flutter uygulamalarını yazmak için kullanılan programlama dilidir.
+- **Bloc**: Uygulamadaki durum yönetimi için kullanılan bir kütüphanedir (Business Logic Component).
+- **Dio**: HTTP istekleri göndermek için kullanılan güçlü bir kütüphanedir.
+- **Json**: Verilerin formatlanması ve taşınması için kullanılır.
+- **CachedNetworkImage**: Kullanıcıların tariflerin resimlerini çevrimdışı izlemeleri için resim önbellekleme kütüphanesidir.
