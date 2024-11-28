@@ -1,16 +1,12 @@
-# api_deneme
+# Recipes App (Tarifler Uygulaması)
 
-A new Flutter project.
+Recipes App, kullanıcıların çeşitli yemek tariflerini keşfetmelerini ve detaylarına göz atmalarını sağlayan bir Flutter uygulamasıdır. Bu uygulama, yemek tarifleri verilerini çekmek için bir API kullanır ve kullanıcıların tarifleri filtrelemesine, favorilere eklemesine ve detaylarını görmesine olanak tanır.
 
-## Getting Started
+## Kullanılan Teknolojiler:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter: Uygulamanın geliştirilmesinde kullanılan açık kaynaklı UI yazılım geliştirme kitidir.
+Dart: Flutter uygulamalarını yazmak için kullanılan programlama dilidir.
+BLoC: Uygulamadaki durum yönetimi için kullanılan bir kütüphanedir (Business Logic Component).
+Dio: HTTP istekleri göndermek için kullanılan güçlü bir kütüphanedir.
+JSON: Verilerin formatlanması ve taşınması için kullanılır.
+CachedNetworkImage: Kullanıcıların tariflerin resimlerini çevrimdışı izlemeleri için resim önbellekleme kütüphanesidir.
